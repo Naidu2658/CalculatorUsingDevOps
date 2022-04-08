@@ -1,3 +1,6 @@
 [ubuntu18]
 172.16.134.176 ansible_user=naidu
 
+[Jenkins_Agent]
+172.17.0.3 ansible_user=user2
+
